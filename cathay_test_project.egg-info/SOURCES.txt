@@ -1,0 +1,7 @@
+setup.py
+cathay_test_project.egg-info/PKG-INFO
+cathay_test_project.egg-info/SOURCES.txt
+cathay_test_project.egg-info/dependency_links.txt
+cathay_test_project.egg-info/requires.txt
+cathay_test_project.egg-info/top_level.txt
+tests/test_login.py

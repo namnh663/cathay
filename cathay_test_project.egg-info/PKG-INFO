@@ -1,0 +1,7 @@
+Metadata-Version: 2.2
+Name: cathay_test_project
+Version: 0.1
+Requires-Dist: selenium
+Requires-Dist: pytest
+Requires-Dist: webdriver-manager
+Dynamic: requires-dist
